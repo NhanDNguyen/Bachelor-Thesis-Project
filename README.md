@@ -1,0 +1,1 @@
+An android application that collect signals from the hand using accelerometer sensor of the phone and performing various signal processing methods to obtain signals that can be used to train to estimate heart rate of the user. This thesis is based on a research paper at a university in France.
